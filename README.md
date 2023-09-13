@@ -1,7 +1,7 @@
 # ToDoList
 To Do List App
 
-SETUP:
+SETUP:  
 npm install  
 npm start
 
